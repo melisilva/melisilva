@@ -8,7 +8,9 @@ Informatics and Computing Engineering Student
 *   🖥️  See my portfolio at [MyPortfolio](http://melisilva.github.io)
 *   ✉️  You can contact me at [melissa.silva2001.ms@gmail.com](mailto:melissa.silva2001.ms@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
-*   ⚡  Fun fact: People often confuse me with Batman...idk why### Skills 
+*   ⚡  Fun fact: People often confuse me with Batman...idk why
+
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
@@ -32,10 +34,10 @@ Informatics and Computing Engineering Student
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
                       <a href="https://discord.com/users/Melbat#1192" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
